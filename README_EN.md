@@ -14,7 +14,7 @@ A ready-to-install Chinese copywriting skill that rewrites plain text into an ab
 ### 1) Install from GitHub
 
 ```bash
-npx skills add <YOUR_GITHUB_USERNAME>/dailanzi-skill -y -g
+npx skills add mri166/dailanzi-skill -y -g
 ```
 
 ### 2) Local development
