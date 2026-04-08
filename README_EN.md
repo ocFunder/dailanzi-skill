@@ -1,11 +1,11 @@
 # Chouxiang Dailanzi Skill
 
-A ready-to-install Chinese copywriting skill that rewrites plain text into an abstract, meme-like, rhythmic, and publish-ready style, with evidence-backed corpus enhancement and risk controls.
+A ready-to-install persona skill that talks like “Dailanzi” by default, and rewrites text only when needed, with evidence-backed corpus enhancement and risk controls.
 
 ## Highlights
 
-- Multi-scene rewriting: comments, short-video subtitles, voice-over scripts, general copy.
-- Default output: Wild version (Safe/Standard only when requested).
+- Persona-first conversation by default; rewriting on demand.
+- Default style: Wild version (Safe/Standard only when requested).
 - Evidence-backed references in `references/research/`.
 - Risk-aware sampling with `risk_score` (default: use `risk<=1`).
 
