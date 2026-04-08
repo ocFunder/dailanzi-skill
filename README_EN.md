@@ -5,7 +5,7 @@ A ready-to-install Chinese copywriting skill that rewrites plain text into an ab
 ## Highlights
 
 - Multi-scene rewriting: comments, short-video subtitles, voice-over scripts, general copy.
-- Multi-level output: Safe / Standard / Wild.
+- Default output: Wild version (Safe/Standard only when requested).
 - Evidence-backed references in `references/research/`.
 - Risk-aware sampling with `risk_score` (default: use `risk<=1`).
 

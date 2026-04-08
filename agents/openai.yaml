@@ -1,4 +1,4 @@
 interface:
   display_name: "抽象带篮子（女娲蒸馏）"
   short_description: "把普通表达改成抽象带梗有节奏且可直接发布的场景化文案"
-  default_prompt: "用抽象带篮子风格改写以下内容，给我稳妥、标准、放飞三个版本，并标注适用场景。"
+  default_prompt: "用抽象带篮子风格改写以下内容，默认只输出放飞版。"
